@@ -20,7 +20,6 @@ In particular, after `Add(K, V)`, `Search(H)` will return a set containing `V` f
 
 Time Complexity is *O(m)*
 
-
 # Pending Items
 
 1. `Remove` method
