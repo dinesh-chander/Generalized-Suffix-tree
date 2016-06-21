@@ -1,3 +1,6 @@
+# Generalized Suffix Tree
+[![Build Status](https://api.travis-ci.org/dispareil/Generalized-Suffix-tree.svg?branch=master)](https://travis-ci.org/dispareil/Generalized-Suffix-tree)
+
 # Summary
 
 A package for creating "online generalized suffix trees" for fast retrieval.

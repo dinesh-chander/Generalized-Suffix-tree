@@ -1,5 +1,5 @@
 package generalizedSuffixTree
 
-func sort(list int[]) {
+func sortIndexData(list []*node) {
 
 }
