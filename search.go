@@ -1,5 +1,5 @@
 package generalizedSuffixTree
 
-func (newGST *gst) search(newString string) (indexes []*index) {
+func (newGST *gst) search(newString string) (indexes []int) {
 	return
 }

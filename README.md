@@ -11,10 +11,10 @@ fast retrieval.
 
 Main methods are 'Add' and 'Search':
 
-1. `Add` : adds the given string in the generalized suffix tree with a given key, this key is used for identifying the string uniquely
+1. `Add` : adds the given string in the generalized suffix tree
 2. `Search` : searches for a input string in the generalized suffix tree and returns all the strings which contains this input string
 
-In particular, after `Add(K, V)`, `Search(H)` will return a set containing `V` for any string `H` that is substring of `K`.
+In particular, after `Add(V)`, `Search(H)` will return a list containing `V` for any string `H` that is substring of `V`.
 
 # Complexity
 
